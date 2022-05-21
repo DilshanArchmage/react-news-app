@@ -48,7 +48,7 @@ const Blogs = () => {
         {blogs?.totalArticles == 0 && (
           <h1 className="no__blogs">
             No blogs available 😞. Search something else to read blogs on the
-            greatest platform.
+            greatest platform.cccc
           </h1>
         )}
       </div>
